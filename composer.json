@@ -1,5 +1,5 @@
 {
-    "name": "travis-test",
+    "name": "travis test",
     "require-dev": {
         "phpunit/phpunit": "4.*",
         "squizlabs/php_codesniffer": "*",
